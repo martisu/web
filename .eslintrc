@@ -15,8 +15,8 @@
       "before": true,
       "it": true,
       "expect": true,
-      "sinon": true
-    },
+      "sinon": true     
+    }, 
     "parser": "babel-eslint",
     "plugins": [
       "react",

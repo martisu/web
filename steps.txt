@@ -6,7 +6,7 @@ crear carpetas public > index.html, src > components, index.js; package.json
 install react ==>npn install react react-dom
 
 install babel : npm install @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
-
+    
 
 intalar webpack ==> npm install webpack webpack-cli html-webpack-plugin html-loader --sav-dev 
 
@@ -14,4 +14,4 @@ reporte de errores ===>> npm install webpack-dev-server
 
 extraer css  del bondon resultante ==> npm install mini-css-extract-plugin css-loader node-sass sass-loader --save-dev
 
-configuracion final ESlint: ==> npm install eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+configuracion final ESlint: ==> npm install eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y 
